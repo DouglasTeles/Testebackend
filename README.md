@@ -1,5 +1,7 @@
 # API TestBackend
 
+Todos os códigos estão na pasta SRC
+
 API desenvolvida em NODE.js utilizando express como framework e MongoDB como banco de dados. Utilizei o Atlas para conectar o banco. 
 
 Para teste da aplicação, bastas baixar e executar com o comando "npm run dev" sem as aspas.
