@@ -7,6 +7,7 @@ API desenvolvida em NODE.js utilizando express como framework e MongoDB como ban
 Para teste da aplicação, bastas baixar e executar com o comando "npm run dev" sem as aspas.
 
 Todas as funções estão dentro da pasta de controllers. Nos controlles Optei por não comentar as funçoes pois estão bem intuitivas.
+
 As rotas estão definidas no arquivo index.js na pasta Routes 
 Decidi por criar um Model para Categorias por questão de organização.
 
